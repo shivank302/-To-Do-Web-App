@@ -10,12 +10,6 @@ This project helps users easily add and manage daily tasks in a simple interface
 
 ---
 
-## 📸 Preview
-
-![App Preview](https://via.placeholder.com/800x400?text=To-Do+Web+App+Preview)
-
----
-
 ## ✨ Features
 
 - ➕ Add new tasks with title & description  
